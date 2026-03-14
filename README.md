@@ -4,7 +4,6 @@ This project contains the firmware for an ESP32-CAM to stream video to a Django 
 
 ## Project Structure
 - `firmware/`: C++ code for ESP32-CAM (compatible with Arduino/PlatformIO).
-- `backend/`: Django project to receive and process video frames.
 
 ## Setup Instructions
 
